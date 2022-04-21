@@ -16,3 +16,7 @@ typedef struct IntElement{
 }IntElement;
 
 ```
+
+### 기초적인 연결 리스트 연산
+* 머리 원소 추적
+  * 단일 연결 리스트에서는 반드시 머리 원소를 추적해야 함.
